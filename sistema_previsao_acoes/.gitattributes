@@ -1,0 +1,2 @@
+libary/* filter=lfs diff=lfs merge=lfs -text
+Assets/* filter=lfs diff=lfs merge=lfs -text
